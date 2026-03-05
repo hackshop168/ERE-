@@ -12,8 +12,8 @@ app.secret_key = 'test_secret_key_123'  # สำหรับทดสอบ
 SPACE_STREAM_URL = "http://isslive.com/video/live.asf"
 
 # ตั้งค่า Telegram Bot (ใช้ค่าที่คุณให้มา)
-TELEGRAM_BOT_TOKEN = '7819014286:AAECmM6-QjOYAXraDynowG-morHswzWtIUM'
-TELEGRAM_CHAT_ID = '-4973238132'
+TELEGRAM_BOT_TOKEN = '8585877951:AAHrNFdoYjttj4B_CZmmvKKIAjwQ-78r_O4'
+TELEGRAM_CHAT_ID = '-1003786383416'
 
 # ข้อมูลผู้ใช้ทดสอบ
 USERS = {
